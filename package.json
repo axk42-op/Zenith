@@ -1,0 +1,29 @@
+{
+  "name": "zenith-bot",
+  "version": "1.0.0",
+  "description": "Zenith Bot - Production Discord bot for Zenith Crest community",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node deploy-commands.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "zenith",
+    "discord.js"
+  ],
+  "author": "Zenith Crest",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7",
+    "ms": "^2.1.3",
+    "sql.js": "^1.12.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

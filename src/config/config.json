@@ -1,0 +1,15 @@
+{
+  "guildId": "",
+  "clientId": "",
+  "token": "",
+  "welcomeChannel": "",
+  "logChannel": "",
+  "ticketCategory": "",
+  "ticketLogChannel": "",
+  "applicationChannel": "",
+  "verificationRole": "",
+  "memberRole": "",
+  "staffRole": "",
+  "moderatorRole": "",
+  "suggestionChannel": ""
+}
